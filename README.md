@@ -47,6 +47,8 @@ This colossal, weakly-labeled dataset allowed CLIP to learn a broad, generalized
 
 <img width="364" height="228" alt="Screenshot 2025-10-07 125910" src="https://github.com/user-attachments/assets/c5a5fbf1-904c-4707-8c41-8b2fff7c11e4" />
 
+<img width="1126" height="318" alt="{41672BB2-836D-4507-8E6F-8C90CB638F0E}" src="https://github.com/user-attachments/assets/c97a3021-ef0c-4467-91a7-7532eb8dd1ee" />
+
 
 ### 🖥️ Example Console Output
 
