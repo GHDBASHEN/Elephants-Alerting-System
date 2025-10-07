@@ -1,3 +1,4 @@
 data/
 animals10.zip/
 kaggle.json
+clip_detector_weights.pt
