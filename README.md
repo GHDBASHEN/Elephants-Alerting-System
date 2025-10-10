@@ -10,6 +10,9 @@ The original CLIP models, including the ViT-B/32 variation used in your project,
 
 This colossal training data, often referred to as WebImageText (WIT), is what gives the model its powerful ability to perform zero-shot classification—meaning it can classify an image of an elephant without having been explicitly trained on a labeled "elephant" dataset.
 
+<img width="1489" height="950" alt="{9CCD12A8-239C-4F92-BC64-A2267D67B946}" src="https://github.com/user-attachments/assets/e3f21c89-ee9f-4a00-b9b3-107599bb1179" />
+
+
 # 🐘 Detailed System Description: Elephant Alerting System
 This system is an efficient, two-stage video surveillance pipeline designed for monitoring wildlife video streams (e.g., from conservation cameras) to specifically identify the presence of elephants while minimizing computational overhead.
 
